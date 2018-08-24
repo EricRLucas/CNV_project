@@ -1,0 +1,5 @@
+Autosomes were analysed using CNV_analysis_alt.r. The "sample.meta.txt" file used in this script is part of the Ag1000G phase 2 data release. the "coverage_variance_masked_09.csv" file used in the script was obtained using calculate_mean_coverage_by_GC (which can be found in the "python_script_for_running_hidden_markov_model" folder).
+
+The X chromosome was analysed using CNV_analysis_alt_X.r
+
+

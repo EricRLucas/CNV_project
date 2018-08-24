@@ -1,0 +1,1 @@
+The Hidden Markov Model was run using the script mHMM_v5_fullgcnorm_varvar_trans000001.py. It uses information on the mean and variance of coverage by GC content calculated by the script calculate_mean_coverage_by_GC.py.

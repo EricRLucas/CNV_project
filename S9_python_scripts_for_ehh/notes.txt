@@ -1,0 +1,1 @@
+Decay in extended haplotype homozygosity and length of shared haplotype were calculated using the scripts ehh_v2.py (autosomes) and ehh_v2_X.py (X chromosome), with the phased vcf files output by MVNcall. Haplotype and genotype files used were those from phase 2 of Ag1000G. 

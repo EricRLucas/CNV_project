@@ -1,0 +1,15 @@
+The script find_target_genes.py was applied to the AgamP4 transcripts file (Anopheles-gambiae-PEST_TRANSCRIPTS_AgamP4.2.fa) with the keywords "p450", "glutathione S-transferase" and "carboxylesterase" to identify genes from these familes.
+
+The script CNV_contingencies_alt.r was used to investigate enrichment of CNVs for metabolic insecticide resistance gene families. The file detox_genes_output2.txt is the one produced as output from "find_target_genes.py"
+
+The script repeat_simulations_with_more_iterations.r repeats the simulations from CNV_contingencies_alt.r, using a larger number of iterations. 
+
+The script find_gene_regions.py was applied to the AgamP4 base features file (Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.2.gff3) to generate the gene positions used in CNV_contingencies_alt.r.
+
+The script CNVs_and_genes.r carries out a basic descriptive analysis of the distribution of CNVs.
+
+GO term enrichment analysis was performed with the script GO_enrichment.r.
+
+all_ID2name.csv is a table of gene names obtained from BIOMART in VectorBase. 
+
+
