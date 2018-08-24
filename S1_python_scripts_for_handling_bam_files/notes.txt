@@ -1,0 +1,7 @@
+Raw coverage calls were obtained using counts_for_mHMM_python2_v4.py followed by turn_v4_to_nomapq.py
+
+The proportion of reads aligning with mapq = 0 was calculated using get_prop_mapq0.py
+
+Discordant reads were obtained using SSFA_v3.py
+
+Reads mapping to the breakpoints were obtained by identifying soft-clipped reads with breakpoint_detector.py
